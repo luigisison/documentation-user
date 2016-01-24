@@ -53,7 +53,7 @@ kanban view logo in the upper right corner
 .. image:: media/visualization04.png
     :align: center
 
-How to nototify your collegues about the status of a task?
+How to notify your collegues about the status of a task?
 ----------------------------------------------------------
 
 .. image:: media/visualization05.png
